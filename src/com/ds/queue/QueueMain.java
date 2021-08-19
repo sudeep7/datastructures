@@ -1,4 +1,4 @@
-package sudeep.queue;
+package com.ds.queue;
 
 public class QueueMain {
 

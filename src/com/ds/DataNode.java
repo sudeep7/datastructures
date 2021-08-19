@@ -1,4 +1,4 @@
-package sudeep;
+package com.ds;
 
 public class DataNode<T> {
     private T data=null;

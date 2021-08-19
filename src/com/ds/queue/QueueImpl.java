@@ -1,6 +1,6 @@
-package sudeep.queue;
+package com.ds.queue;
 
-import sudeep.DataNode;
+import com.ds.DataNode;
 
 public class QueueImpl<T> {
 

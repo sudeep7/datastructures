@@ -1,5 +1,6 @@
-package sudeep.stack;
+package com.ds.stack;
 
+import com.ds.DataNode;
 import sudeep.*;
 
 public class StackImpl<T> {
